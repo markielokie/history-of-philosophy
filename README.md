@@ -1,5 +1,5 @@
 # Applied Data Science @ Columbia
-## Fall 2021
+## Spring 2022
 ## Project 1: A "data story" on the history of philosophy
 
 <img src="figs/100126-the-glass.jpeg" width="500">
