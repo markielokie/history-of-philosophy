@@ -18,6 +18,8 @@ Term: Spring 2022
 
 <img src="figs/p_schgamma.jpeg" width="650">
 
++ Techniques used: Data exploration, data munging, text mining, LDA (Latent Dirichlet Allocation).
+
 + Data source: The dataset was taken from the [Philosophy Data Project](http://philosophydata.com/index.html).
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
