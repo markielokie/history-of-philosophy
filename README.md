@@ -16,7 +16,7 @@ Term: Spring 2022
 
 + Key findings: *Stoicism* and *Nietzsche* are more similar in topics due to the similarity in language used. On the other hand, *Capitalism* and *Phenomenology* seem to be distinct and different from the rest because one uses very distinct economics terms while the other has words in German. Finally, every school of philosophy had a fair amount of probability of coming from topic 13 (see below), which is likely a topic that covers very generic philosophical words/themes that are more existential in nature like "time", "nature", "life", "reason", etc. Since *Capitalism* addresses less existential issues in general, then it makes sense that it is more distinct as a philosophical school when compared to the rest.
 
-<img src="figs/p_schgamma.jpeg" width="800">
+<img src="figs/p_schgamma.jpeg" width="700">
 
 + Data source: The dataset was taken from the [Philosophy Data Project](http://philosophydata.com/index.html).
 
