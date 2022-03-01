@@ -2,7 +2,7 @@
 ## Spring 2022
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/philosophy.jpg" width="600">
+<img src="figs/philosophy.jpg" width="700">
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
